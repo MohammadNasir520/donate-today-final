@@ -1,0 +1,294 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Roboto',
+        sans-serif;
+    margin: 0 auto;
+}
+
+.help-section {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1348px;
+    height: 673px;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.help-div h1 {
+    color: white;
+    font-family: inter;
+    font-weight: 700;
+    font-size: 65px;
+}
+
+.help-div p {
+    color: white;
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 18;
+}
+
+.link-button {
+
+    text-decoration: none;
+    color: white;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 20px;
+    padding: 15px 12px;
+    background-color: tomato;
+    border-radius: 5px;
+}
+
+.second-link-button {
+    margin-left: 45%;
+
+}
+
+.text-box {
+    text-align: center;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.text-box h1 {
+    font-family: inter;
+    font-weight: 700;
+    font-size: 45px;
+
+}
+
+.text-box p {
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.tk-section {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.tk-section h1 {
+    font-family: inter;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.tk-amount {
+    width: 135px;
+    height: 123px;
+    background-color: rgb(224, 219, 219);
+    margin: 10px;
+    border-radius: 5px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.tk-orange {
+    width: 135px;
+    height: 123px;
+    margin: 10px;
+    color: tomato;
+    border: 2px solid tomato;
+    border-radius: 5px;
+    background-color: rgba(245, 115, 92, 0.24);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.other-amount {
+    text-align: center;
+    border: none;
+    border-bottom: 1px solid gray;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 40px;
+    font: optional;
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+#family-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Food-shelter-education {
+
+    width: 360px;
+    height: 320px;
+    margin: 10px;
+    padding-left: 15px;
+    padding-top: 50px;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+
+}
+
+.Food-shelter-education h1 {
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 24px;
+
+}
+
+.Food-shelter-education p {
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.bg-shelter {
+    background-color: rgba(255, 89, 89, 0.1);
+}
+
+.bg-education {
+    background-color: bisque;
+}
+
+.new-thing {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.team {
+
+    margin-top: 30px;
+    height: 380px;
+    width: 380px;
+}
+
+
+.member {
+    border: 1px solid gray;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 320px;
+    width: 380px;
+
+}
+
+.member img {
+    height: 150px;
+    width: 150px;
+
+}
+
+.member h1 {
+    text-align: center;
+
+}
+
+.member p {
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.member a {
+    text-decoration: none;
+    color: white;
+    font-family: poppins;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 10px 15px;
+    background-color: rgba(44, 30, 240, 0.863);
+    border-radius: 5px;
+}
+
+.mail-section {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+
+.email-subscribe {
+    width: 809px;
+    height: 150px;
+    background-color: blanchedalmond;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.email {
+    border: none;
+    width: 275px;
+    height: 48px;
+    background-color: rgb(196, 187, 187);
+}
+
+
+
+.subscribe {
+    background-color: tomato;
+    border: none;
+    color: white;
+    width: 157px;
+    height: 48px;
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    width: 1348px;
+    height: 175px;
+}
+
+
+
+footer h1 {
+    font-family: lobster;
+    font-weight: 400;
+    font-size: 36px;
+    color: tomato;
+
+}
+
+footer p {
+    font-family: manrope;
+    font-weight: 400;
+    font-size: 14px;
+}
